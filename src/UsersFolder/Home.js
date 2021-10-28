@@ -29,9 +29,7 @@ class Home extends Component {
             <a href="/UserLogin" className="butt butt2">
               Login with User
             </a>
-            <a href="/Adminsiva" className="butt butt2">
-              Login with Admin
-            </a>
+           
 
             {/* <a href="/" className="butt butt2">Login with Admin</a>     */}
           </div>
