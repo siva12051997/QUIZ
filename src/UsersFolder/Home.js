@@ -13,7 +13,7 @@ class Home extends Component {
   render() {
     return (
       <div className="coooo">
-        <div className="imr">
+        {/* <div className="imr">
           <img
             src={image}
             style={{
@@ -31,9 +31,9 @@ class Home extends Component {
             </a>
            
 
-            {/* <a href="/" className="butt butt2">Login with Admin</a>     */}
+           
           </div>
-        </section>
+        </section> */}
       </div>
     );
   }
